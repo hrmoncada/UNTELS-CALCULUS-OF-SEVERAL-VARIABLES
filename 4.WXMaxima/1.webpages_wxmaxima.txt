@@ -1,0 +1,13 @@
+https://maxima.sourceforge.io/docs/tutorial/en/gaertner-tutorial-revision/Pages/Intro0001.htm
+https://www.w3resource.com/wxmaxima/index.php
+https://home.csulb.edu/~woollett/mbe.html
+https://wxmaxima-developers.github.io/wxmaxima/help.html
+https://mathblog.com/a-10-minute-tutorial-for-solving-math-problems-with-maxima/
+https://help.ubuntu.com/community/wxMaxima
+https://maths.cnam.fr/Membres/wilk/MathMax/help/Maxima/maxima_8.html
+https://villate.org/dynamics/maxima_tutorial.html
+https://maxima.sourceforge.io/docs/manual/es/maxima.html
+
+https://wxmaxima-developers.github.io/wxmaxima/wxmaxima.es.pdf
+https://wxmaxima-developers.github.io/wxmaxima/
+https://htmlpreview.github.io/?https://github.com/wxMaxima-developers/wxmaxima/blob/master/info/wxmaxima.html
